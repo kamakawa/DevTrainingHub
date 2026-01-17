@@ -1,0 +1,15 @@
+#topo{
+    background-color: dodgerblue;
+    margin: 0;
+    padding: 10px;
+}
+
+a{
+    margin: 8px;
+    border: 1px solid white;
+    padding: 6px;
+    background-color: lightskyblue;
+    color: dodgerblue;
+    border-radius: 7px;
+    text-decoration: none;
+}
