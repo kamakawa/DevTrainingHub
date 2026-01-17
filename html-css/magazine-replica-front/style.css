@@ -9,7 +9,22 @@ a{
     border: 1px solid white;
     padding: 6px;
     background-color: lightskyblue;
-    color: dodgerblue;
+    color: white;
     border-radius: 7px;
     text-decoration: none;
+}
+
+#area-banner{
+    background-color: purple;
+}
+
+#banner{
+    width: 1000px;
+    margin: auto;
+}
+
+#produtos{
+    border: 1px;
+    width: 1000px;
+    margin: auto;
 }
