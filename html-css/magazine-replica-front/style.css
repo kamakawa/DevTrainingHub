@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif; 
+}
+
 #topo{
     background-color: dodgerblue;
     margin: 0;
@@ -12,6 +17,11 @@ a{
     color: white;
     border-radius: 7px;
     text-decoration: none;
+}
+a:hover {
+    background-color: white; /* Inverte o fundo para branco */
+    color: lightskyblue;       /* Texto fica azul */
+    border: 1px solid dodgerblue;
 }
 
 #area-banner{
