@@ -1,62 +1,79 @@
-# ⚛️ QuantumBreakers: Quebrando Barreiras com Tecnologia
+# 🚀 dev-training-hub
 
-## 🚀 Missão
+Bem-vindo ao meu centro de treinamento de desenvolvimento! Este repositório é o meu "laboratório" pessoal, onde documento minha jornada, estudos e evolução técnica em diversas tecnologias.
 
-Somos os **QuantumBreakers**, uma equipe de desenvolvedores focada em **transformar ideias em soluções aplicáveis no mundo real** durante eventos de Hackathon. Nosso objetivo é construir protótipos funcionais e impactantes que resolvam problemas concretos e tragam inovação.
+## 👨‍💻 Sobre o Projeto
 
-Acreditamos na sinergia entre diferentes stacks e na capacidade de entregar valor rapidamente.
+Este repositório centraliza todos os meus exercícios, desafios de lógica, mini-projetos e atividades práticas realizados durante a graduação em **Engenharia de Computação** e meus estudos autodidatas.
 
----
-
-## 👨‍💻 Nossa Equipe (The Breakers)
-
-Conheça os cérebros por trás da disrupção:
-
-*   **Eric Kamakawa** - *Foco em Arquitetura e Back-end*
-*   **Pedro Henrique** - *Foco em Front-end e UX/UI*
-*   **Leonardo Neres** - *Foco em Lógica de Negócios e Banco de Dados*
+O objetivo principal é:
+- Fortalecer os fundamentos da computação e web.
+- Praticar algoritmos, estrutura de dados e orientação a objetos.
+- Explorar diferentes paradigmas de programação.
+- Documentar o progresso técnico ao longo do tempo.
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 📂 Estrutura do Repositório
 
-## 🛠️ Stack Tecnológica
+O hub está organizado por linguagens e tecnologias para facilitar a navegação:
 
-Nossa força reside na nossa versatilidade. Utilizamos uma combinação poderosa de linguagens e frameworks para construir soluções completas, desde a performance de baixo nível até a interface do usuário:
-
-| Categoria | Tecnologia | Ícone |
-| :--- | :--- | :--- |
-| **Performance/Lógica** | C++ | 🚀 |
-| **Back-end/Runtime** | Node.js | 🟢 |
-| **Front-end** | JavaScript | 🌐 |
-| **Front-end** | HTML5 | 🧱 |
-| **Front-end** | CSS3 | 🎨 |
-| **Framework Web** | React | ⚛️ |
-| **Desktop/Cross-Platform** | Electron | 🖥️ |
-| **Banco de Dados** | MySQL | 💾 |
-
+- **`/html-css`**: Estilização, Box Model, Flexbox, Seletores e layouts responsivos.
+- **`/javascript`**: Manipulação de DOM, APIs, ES6+ e lógica para web.
+- **`/cpp`**: Algoritmos de baixo nível, ponteiros e gestão de memória (Engenharia).
+- **`/csharp`**: Desenvolvimento .NET, POO e aplicações desktop/backend.
+- **`/java`**: Orientação a Objetos, concorrência e estruturas de dados.
+- **`/python`**: Automação, scripts, análise de dados e lógica básica.
 
 ---
 
-## 💡 Projetos Desenvolvidos
+## 🛠️ Tecnologias em Estudo
 
-Esta seção será atualizada com os resultados de cada Hackathon, incluindo links para demonstrações e *pitch decks*.
+### Web Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-| Hackathon | Título do Projeto | Status | Demonstração |
-| :--- | :--- | :--- | :--- |
-| **[Nome do Evento Aqui]** | [Nome da Solução] | ✅ Concluído | [Link para Deploy/Vídeo] |
-| **[Próximo Evento]** | ... | ⏳ Em Andamento | - |
+### Software & Backend
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
-## 🤝 Contribuição e Workflow
+## 📈 Metas de Aprendizado
 
-Durante o Hackathon, o tempo é nosso recurso mais escasso. Utilizamos um fluxo ágil:
+- [ ] Dominar layouts modernos e responsivos no Frontend.
+- [ ] Implementar estruturas de dados clássicas em C++ e Java.
+- [ ] Desenvolver o mindset de Orientação a Objetos (POO) com C# e Java.
+- [ ] Criar automações úteis e análise de dados com Python.
+- [ ] Aplicar boas práticas de código limpo (Clean Code) em todas as frentes.
 
-1.  **Branching Rápido:** Crie branches temáticas curtas (`feat-login`, `fix-database`).
-2.  **Commits Frequentes:** Faça commits a cada pequena vitória (`git commit -m "chore: Conclui layout do header"`).
-3.  **Merge Imediato:** Assim que o código for revisado e testado localmente, faça o merge para a `main`.
+---
 
-> "Em um Hackathon, não se trata de ter tempo, mas de ter a **vontade** de fazer o impossível. Vamos quebrar o código e o cronômetro."
+## 📝 Como utilizar
 
-**Vamos Codar!**
+Sinta-se à vontade para explorar os códigos! Se você for um colega estudante ou recrutador:
+1. Navegue pelas pastas para ver os exercícios de cada linguagem.
+2. Cada pasta contém um `README` específico ou comentários no código explicando o desafio proposto.
+
+> *"A engenharia não é apenas sobre o que você sabe, mas sobre como você resolve problemas."*
+
+---
+## 👥 Desenvolvedores
+
+Este hub de treinamento é mantido e alimentado por:
+
+* **Eric Kamakawa** 
+* **Gilson Heringer** 
+* **Pedro Henrique** 
+* **Leonardo Neres**
+
+---
+
+> *"A engenharia não é apenas sobre o que você sabe, mas sobre como você resolve problemas em equipe."*
+
+---
+**Contato Principal:**
+- **E-mail:** erickamakawa@hotmail.com
