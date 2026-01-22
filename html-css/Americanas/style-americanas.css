@@ -15,7 +15,7 @@ body{
     background-color: grey;
 }
 
-#celulares, #produtos-iniciais, #notebook {
+#celulares, #produtos-iniciais, #notebook, #eletrodomesticos, #brinquedos {
     display: flex;          /* Transforma em container flexível */
     flex-wrap: wrap;        /* Se não couber na tela, joga para a linha de baixo */
     justify-content: center; /* Centraliza os cards horizontalmente */
