@@ -59,13 +59,6 @@ a:hover {
     transition: transform 0.3s ease; /* Prepara a animação para o hover */
 }
 
-.produto img {
-    max-width: 100%;        /* Ajusta a largura ao tamanho do card */
-    height: 200px;          /* Altura fixa para alinhar todos os produtos */
-    object-fit: contain;    /* Mantém a proporção da foto sem esticar */
-    margin-bottom: 15px;
-}
-
 .produto:hover {
     background-color: #f9f9f9;
     transform: translateY(-10px); /* O card "sobe" levemente */
