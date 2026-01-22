@@ -1,4 +1,4 @@
-# 🚀 dev-training-hub
+# 🚀 DevTrainingHub
 
 Bem-vindo ao meu centro de treinamento de desenvolvimento! Este repositório é o meu "laboratório" pessoal, onde documento minha jornada, estudos e evolução técnica em diversas tecnologias.
 
