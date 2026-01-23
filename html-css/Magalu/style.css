@@ -33,6 +33,21 @@ a:hover {
     margin: auto;
 }
 
+#banner-promo {
+    width: 100%;             /* Faz a div ocupar 100% da largura da tela */
+    display: flex;           /* Ativa o flexbox para centralizar a imagem dentro da div */
+    justify-content: center; /* Centraliza a imagem horizontalmente */
+    overflow: hidden;        /* Garante que nada escape para fora da div */
+}
+
+#banner-promo img {
+    width: 100%;             /* A imagem se estica para preencher toda a largura */
+    max-width: 100vw;        /* Garante que não ultrapasse a largura da janela de visualização */
+    height: auto;            /* Mantém a proporção da imagem para não achatar */
+    display: block;          /* Remove espaços em branco indesejados abaixo da imagem */
+    object-fit: cover;       /* Ajusta a imagem para preencher o espaço sem distorcer */
+}
+
 #produtos{
     border: 1px;
     width: 1000px;
@@ -66,7 +81,7 @@ a:hover {
 }
 
 .compra {
-    background-color: #ffda00; /* Amarelo vibrante */
+    background-color: greenyellow; /* Amarelo vibrante */
     color: #000;              /* Texto preto para contraste */
     border: none;             /* Remove a borda padrão do botão */
     padding: 12px 20px;       /* Espaçamento interno */
@@ -82,8 +97,9 @@ a:hover {
 
 /* Efeito ao passar o mouse */
 .compra:hover {
-    background-color: #e6c500; /* Um tom de amarelo um pouco mais escuro */
+    background-color: green; /* Um tom de amarelo um pouco mais escuro */
     transform: scale(1.02);    /* Aumenta levemente o botão */
+    color: white;
 }
 
 /* Efeito ao clicar */
