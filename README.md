@@ -52,6 +52,46 @@ O hub está organizado por linguagens e tecnologias para facilitar a navegação
 
 ---
 
+## 🧪 Projetos em Destaque (Treinamento Prático)
+
+### 🛒 Clone Americanas (Frontend)
+
+Projeto desenvolvido com foco em **treinamento prático de frontend moderno**, replicando a interface e funcionalidades principais do e-commerce da Americanas.
+
+**Objetivos:**
+- Praticar estruturação de páginas web reais  
+- Aplicar estilização responsiva e organização de layout  
+- Trabalhar manipulação de DOM e lógica de interface  
+
+**Tecnologias utilizadas:**
+- HTML5  
+- CSS3  
+
+🔧 **Próxima etapa:** desenvolvimento do backend utilizando **TypeScript**, com foco em APIs REST e integração completa frontend–backend.
+
+👤 **Autor:** Eric Kamakawa
+
+---
+
+### 🛍️ Clone Magazine Luiza (Frontend)
+
+Projeto colaborativo voltado ao desenvolvimento de um clone funcional da interface do Magazine Luiza, com foco em boas práticas de frontend e trabalho em equipe.
+
+**Objetivos:**
+- Simular um projeto real de mercado  
+- Treinar versionamento com Git em equipe  
+- Desenvolver componentes reutilizáveis e organização de código  
+
+**Tecnologias utilizadas:**
+- HTML5  
+- CSS3  
+
+🔧 **Próxima etapa:** implementação de backend utilizando **JavaScript (Node.js)** para criação de serviços e integração com banco de dados.
+
+👥 **Autores:** Eric Kamakawa & Leonardo Neres
+
+---
+
 ## 📝 Como utilizar
 
 Sinta-se à vontade para explorar os códigos! Se você for um colega estudante ou recrutador:
@@ -61,13 +101,14 @@ Sinta-se à vontade para explorar os códigos! Se você for um colega estudante 
 > *"A engenharia não é apenas sobre o que você sabe, mas sobre como você resolve problemas."*
 
 ---
+
 ## 👥 Desenvolvedores
 
 Este hub de treinamento é mantido e alimentado por:
 
-* **Eric Kamakawa** 
-* **Gilson Heringer** 
-* **Pedro Henrique** 
+* **Eric Kamakawa**
+* **Gilson Heringer**
+* **Pedro Henrique**
 * **Leonardo Neres**
 
 ---
@@ -75,5 +116,6 @@ Este hub de treinamento é mantido e alimentado por:
 > *"A engenharia não é apenas sobre o que você sabe, mas sobre como você resolve problemas em equipe."*
 
 ---
+
 **Contato Principal:**
 - **E-mail:** erickamakawa@hotmail.com
