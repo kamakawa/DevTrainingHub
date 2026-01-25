@@ -1,0 +1,40 @@
+PROJETO: CLONE DE INTERFACE - MAGAZINE LUIZA (MAGALU)
+DESCRICAO GERAL: Este projeto integra o ecossistema DevTrainingHub e consiste na reconstrucao tecnica da interface da Magazine Luiza. O foco e o desenvolvimento de um layout moderno de e-commerce, aplicando conceitos de engenharia de software para garantir uma interface limpa, rapida e funcional, simulando a experiencia de um usuario em uma das maiores varejistas do Brasil.
+
+OBJETIVOS TECNICOS:
+
+    Engenharia Reversa de UI: Estudo da identidade visual da marca, focando na paleta de cores azul/branco e na disposicao estrategica de banners.
+
+    Layout Fluido: Uso de Flexbox e CSS Grid para criacao de sessoes de ofertas e grades de produtos simetricas.
+
+    SEO Semantico: Uso de tags HTML5 estruturadas para garantir acessibilidade e melhor leitura por motores de busca.
+
+TECNOLOGIAS UTILIZADAS:
+
+    HTML5: Estruturacao de dados e componentes do site.
+
+    CSS3: Estilizacao baseada em Box Model, Flexbox e seletores especificos.
+
+FUNCIONALIDADES IMPLEMENTADAS:
+
+    Catalogo de Produtos: Exibicao de categorias como Tecnologia, Eletro, Informatica e Brinquedos.
+
+    Precos Reais: Listagem com valores de mercado atualizados para iPhone 11 , Galaxy A02, GoPro HERO9, Ar-Condicionado LG e Notebook Acer Aspire 5.
+
+    Banner de Tecnologia: Implementacao de banner "Full Width" com foco em campanha promocional de 40% OFF.
+
+    Padronizacao DRY: Uso de classes CSS compartilhadas para evitar duplicacao de codigo em cards de produtos similares.
+
+ROADMAP E EVOLUCAO (PROXIMOS PASSOS): O planejamento para este projeto foca em integracao dinamica e servicos:
+
+    Implementacao de Backend: Desenvolvimento de rotas e servicos utilizando JavaScript (Node.js).
+
+    APIs de Produtos: Criacao de sistema de busca e filtros para o catalogo.
+
+    Consumo de Dados: Transformar o frontend estatico em uma aplicacao que consome informacoes de um banco de dados em tempo real.
+
+DESENVOLVEDORES:
+
+    Eric Kamakawa
+
+    Leonardo Neres

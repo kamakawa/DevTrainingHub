@@ -1,0 +1,42 @@
+PROJETO: CLONE DE INTERFACE - AMERICANAS
+DESCRICAO GERAL: Este projeto integra o ecossistema DevTrainingHub e consiste na reconstrucao tecnica da interface da plataforma Americanas. O trabalho foca na aplicacao de conceitos fundamentais de Engenharia de Software e Desenvolvimento Frontend, utilizando o site real como base para um estudo de caso de interface e layout.
+
+OBJETIVOS TECNICOS:
+
+    Engenharia Reversa de UI: Analise da hierarquia visual, tipografia e paleta de cores (vermelho institucional).
+
+    Domínio do Box Model: Implementacao de margens, preenchimentos (padding) e bordas para garantir a integridade do layout.
+
+    Layouts Responsivos: Uso de Flexbox para organizacao dinamica de componentes como o grid de produtos e menus.
+
+TECNOLOGIAS UTILIZADAS:
+
+    HTML5: Estruturacao semantica de dados.
+
+    CSS3: Estilizacao baseada em conceitos de Cascata, Heranca e Especificidade.
+
+    Git: Controle de versao e gestao de codigo em equipe.
+
+FUNCIONALIDADES IMPLEMENTADAS:
+
+    Grid de Produtos: Exposicao de itens com imagens, titulos e descricoes.
+
+    Precos Reais: Listagem com valores de mercado atualizados para Celulares (iPhone 11, Galaxy A02/A01), Eletronicos (GoPro), Informatica (Notebooks) e Eletrodomesticos.
+
+    Header Institucional: Menu de navegacao por categorias.
+
+    Banners Promocionais: Implementacao de banners "Full Width" centralizados.
+
+    Botões de Compra: Componentes interativos com efeito hover em amarelo.
+
+ROADMAP E EVOLUCAO (PROXIMOS PASSOS): O projeto possui um planejamento racional focado em escalabilidade:
+
+    Implementacao de Backend: Desenvolvimento de um servidor robusto utilizando TypeScript.
+
+    API REST: Criacao de rotas para gerenciamento dinamico do catalogo.
+
+    Persistencia: Integracao com banco de dados para simular fluxos de estoque.
+
+DESENVOLVEDOR:
+
+    Eric Kamakawa (Graduando em Engenharia de Computacao - UTFPR)
