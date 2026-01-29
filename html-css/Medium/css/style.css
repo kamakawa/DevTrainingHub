@@ -71,6 +71,16 @@ h1{
     letter-spacing: -0.1rem;
 }
 
+h2{
+    font-size: 0.8rem;
+    text-transform: uppercase;
+}
+
+.titulo-tendencia{
+    background: url(../img/icone-tendencia.png) no-repeat left;
+    padding: 0.2rem 0 0.2rem 2rem;
+}
+
 #destaque button{
     display: block;
     margin-top: 1.5rem;
@@ -78,4 +88,9 @@ h1{
     border: 1px solid black;
     padding: 0.8rem 1.5rem;
     background-color: white;
+}
+
+#tendencias{
+    padding-top: 0.8rem;
+    
 }
